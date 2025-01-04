@@ -5,7 +5,7 @@ Myntra Review Analyzer is a Python-powered tool that scrapes product reviews fro
 
 🌟 Features
 
-Web Scraping: Extract reviews using Python libraries like BeautifulSoup/Scrapy.
+Web Scraping: Extract reviews using Python libraries like BeautifulSoup,Selenium.
 
 Sentiment Analysis: Classify reviews into positive, negative, and neutral categories.
 
